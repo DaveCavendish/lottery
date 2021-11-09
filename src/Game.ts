@@ -1,6 +1,5 @@
 import gsap from 'gsap/all';
 import * as PIXI from 'pixi.js';
-import { AudioManager } from './AudioManager';
 import { Button } from './Button';
 import { GameSettings } from './GameSettings';
 import { GameUi } from './GameUi';
